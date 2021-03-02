@@ -5,7 +5,7 @@ school,house age,52
 school,amenities,64
 school,hospital,89
 school,theater,72
-school,shopping center,48
+school,shopping,48
 school,fitness,20
 school,park,79
 school,school,66
@@ -15,7 +15,7 @@ park,house age,81
 park,amenities,79
 park,hospital,84
 park,theater,71
-park,shopping center,82
+park,shopping,82
 park,fitness,89
 park,park,6
 park,school,67
@@ -25,27 +25,27 @@ fitness,house age,48
 fitness,amenities,10
 fitness,hospital,86
 fitness,theater,73
-fitness,shopping center,74
+fitness,shopping,74
 fitness,fitness,47
 fitness,park,73
 fitness,school,40
-shopping center,price,75
-shopping center,house size,18
-shopping center,house age,82
-shopping center,amenities,43
-shopping center,hospital,56
-shopping center,theater,87
-shopping center,shopping center,76
-shopping center,fitness,24
-shopping center,park,1
-shopping center,school,87
+shopping,price,75
+shopping,house size,18
+shopping,house age,82
+shopping,amenities,43
+shopping,hospital,56
+shopping,theater,87
+shopping,shopping,76
+shopping,fitness,24
+shopping,park,1
+shopping,school,87
 theater,price,84
 theater,house size,49
 theater,house age,58
 theater,amenities,55
 theater,hospital,65
 theater,theater,56
-theater,shopping center,9
+theater,shopping,9
 theater,fitness,78
 theater,park,49
 theater,school,36
@@ -55,7 +55,7 @@ hospital,house age,8
 hospital,amenities,46
 hospital,hospital,48
 hospital,theater,70
-hospital,shopping center,17
+hospital,shopping,17
 hospital,fitness,41
 hospital,park,33
 hospital,school,11
@@ -65,7 +65,7 @@ amenities,house age,94
 amenities,amenities,15
 amenities,hospital,69
 amenities,theater,63
-amenities,shopping center,61
+amenities,shopping,61
 amenities,fitness,54
 amenities,park,38
 amenities,school,93
@@ -75,7 +75,7 @@ house age,house age,90
 house age,amenities,83
 house age,hospital,31
 house age,theater,72
-house age,shopping center,51
+house age,shopping,51
 house age,fitness,28
 house age,park,42
 house age,school,7
@@ -85,7 +85,7 @@ house size,house age,21
 house size,amenities,25
 house size,hospital,3
 house size,theater,70
-house size,shopping center,34
+house size,shopping,34
 house size,fitness,68
 house size,park,57
 house size,school,32
@@ -95,7 +95,7 @@ price,house age,53
 price,amenities,75
 price,hospital,91
 price,theater,64
-price,shopping center,4
+price,shopping,4
 price,fitness,12
 price,park,87
 price,school,99
