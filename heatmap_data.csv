@@ -1,11 +1,11 @@
 group,variable,value
 school,price,99
-school,house size,95
-school,house age,22
-school,amenities,14
-school,hospital,59
-school,theater,52
-school,shopping center,68
+school,house size,65
+school,house age,52
+school,amenities,64
+school,hospital,89
+school,theater,32
+school,shopping center,48
 school,fitness,20
 school,park,79
 school,school,66
@@ -21,7 +21,7 @@ park,park,6
 park,school,67
 fitness,price,96
 fitness,house size,13
-fitness,house age,78
+fitness,house age,48
 fitness,amenities,10
 fitness,hospital,86
 fitness,theater,23
