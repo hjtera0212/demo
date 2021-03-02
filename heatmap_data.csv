@@ -19,12 +19,12 @@ park,shopping center,82
 park,fitness,89
 park,park,6
 park,school,67
-fitness,price,96
+fitness,price,56
 fitness,house size,13
 fitness,house age,48
 fitness,amenities,10
 fitness,hospital,86
-fitness,theater,23
+fitness,theater,73
 fitness,shopping center,74
 fitness,fitness,47
 fitness,park,73
@@ -34,13 +34,13 @@ shopping center,house size,18
 shopping center,house age,82
 shopping center,amenities,43
 shopping center,hospital,56
-shopping center,theater,27
+shopping center,theater,87
 shopping center,shopping center,76
 shopping center,fitness,24
 shopping center,park,1
 shopping center,school,87
-theater,price,44
-theater,house size,29
+theater,price,84
+theater,house size,49
 theater,house age,58
 theater,amenities,55
 theater,hospital,65
@@ -49,12 +49,12 @@ theater,shopping center,9
 theater,fitness,78
 theater,park,49
 theater,school,36
-hospital,price,35
+hospital,price,95
 hospital,house size,80
 hospital,house age,8
 hospital,amenities,46
 hospital,hospital,48
-hospital,theater,100
+hospital,theater,70
 hospital,shopping center,17
 hospital,fitness,41
 hospital,park,33
@@ -74,7 +74,7 @@ house age,house size,26
 house age,house age,90
 house age,amenities,83
 house age,hospital,31
-house age,theater,2
+house age,theater,72
 house age,shopping center,51
 house age,fitness,28
 house age,park,42
@@ -92,10 +92,10 @@ house size,school,32
 price,price,19
 price,house size,85
 price,house age,53
-price,amenities,45
-price,hospital,71
+price,amenities,75
+price,hospital,91
 price,theater,64
 price,shopping center,4
 price,fitness,12
-price,park,97
-price,school,72
+price,park,87
+price,school,99
