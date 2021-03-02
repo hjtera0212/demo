@@ -14,14 +14,14 @@ park,house size,50
 park,house age,81
 park,amenities,79
 park,hospital,84
-park,theater,91
+park,theater,71
 park,shopping center,82
 park,fitness,89
 park,park,6
 park,school,67
 fitness,price,96
 fitness,house size,13
-fitness,house age,98
+fitness,house age,78
 fitness,amenities,10
 fitness,hospital,86
 fitness,theater,23
@@ -31,9 +31,9 @@ fitness,park,73
 fitness,school,40
 shopping center,price,75
 shopping center,house size,18
-shopping center,house age,92
+shopping center,house age,82
 shopping center,amenities,43
-shopping center,hospital,16
+shopping center,hospital,56
 shopping center,theater,27
 shopping center,shopping center,76
 shopping center,fitness,24
