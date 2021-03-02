@@ -1,99 +1,99 @@
 group,variable,value
-school,price,30
-school,hospital,95
-school,stadium,22
-school,exhibition,14
-school,museum,59
+school,price,99
+school,house size,95
+school,house age,22
+school,amenities,14
+school,hospital,59
 school,theater,52
-school,shopping center,88
+school,shopping center,68
 school,fitness,20
-school,park,99
+school,park,79
 school,school,66
 park,price,37
-park,hospital,50
-park,stadium,81
-park,exhibition,79
-park,museum,84
+park,house size,50
+park,house age,81
+park,amenities,79
+park,hospital,84
 park,theater,91
 park,shopping center,82
 park,fitness,89
 park,park,6
 park,school,67
 fitness,price,96
-fitness,hospital,13
-fitness,stadium,98
-fitness,exhibition,10
-fitness,museum,86
+fitness,house size,13
+fitness,house age,98
+fitness,amenities,10
+fitness,hospital,86
 fitness,theater,23
 fitness,shopping center,74
 fitness,fitness,47
 fitness,park,73
 fitness,school,40
 shopping center,price,75
-shopping center,hospital,18
-shopping center,stadium,92
-shopping center,exhibition,43
-shopping center,museum,16
+shopping center,house size,18
+shopping center,house age,92
+shopping center,amenities,43
+shopping center,hospital,16
 shopping center,theater,27
 shopping center,shopping center,76
 shopping center,fitness,24
 shopping center,park,1
 shopping center,school,87
 theater,price,44
-theater,hospital,29
-theater,stadium,58
-theater,exhibition,55
-theater,museum,65
+theater,house size,29
+theater,house age,58
+theater,amenities,55
+theater,hospital,65
 theater,theater,56
 theater,shopping center,9
 theater,fitness,78
 theater,park,49
 theater,school,36
-museum,price,35
-museum,hospital,80
-museum,stadium,8
-museum,exhibition,46
-museum,museum,48
-museum,theater,100
-museum,shopping center,17
-museum,fitness,41
-museum,park,33
-museum,school,11
-exhibition,price,77
-exhibition,hospital,62
-exhibition,stadium,94
-exhibition,exhibition,15
-exhibition,museum,69
-exhibition,theater,63
-exhibition,shopping center,61
-exhibition,fitness,54
-exhibition,park,38
-exhibition,school,93
-stadium,price,39
-stadium,hospital,26
-stadium,stadium,90
-stadium,exhibition,83
-stadium,museum,31
-stadium,theater,2
-stadium,shopping center,51
-stadium,fitness,28
-stadium,park,42
-stadium,school,7
-hospital,price,5
-hospital,hospital,60
-hospital,stadium,21
-hospital,exhibition,25
-hospital,museum,3
-hospital,theater,70
-hospital,shopping center,34
-hospital,fitness,68
-hospital,park,57
-hospital,school,32
+hospital,price,35
+hospital,house size,80
+hospital,house age,8
+hospital,amenities,46
+hospital,hospital,48
+hospital,theater,100
+hospital,shopping center,17
+hospital,fitness,41
+hospital,park,33
+hospital,school,11
+amenities,price,77
+amenities,house size,62
+amenities,house age,94
+amenities,amenities,15
+amenities,hospital,69
+amenities,theater,63
+amenities,shopping center,61
+amenities,fitness,54
+amenities,park,38
+amenities,school,93
+house age,price,39
+house age,house size,26
+house age,house age,90
+house age,amenities,83
+house age,hospital,31
+house age,theater,2
+house age,shopping center,51
+house age,fitness,28
+house age,park,42
+house age,school,7
+house size,price,5
+house size,house size,60
+house size,house age,21
+house size,amenities,25
+house size,hospital,3
+house size,theater,70
+house size,shopping center,34
+house size,fitness,68
+house size,park,57
+house size,school,32
 price,price,19
-price,hospital,85
-price,stadium,53
-price,exhibition,45
-price,museum,71
+price,house size,85
+price,house age,53
+price,amenities,45
+price,hospital,71
 price,theater,64
 price,shopping center,4
 price,fitness,12
